@@ -589,3 +589,68 @@ Downloading gas-prices-in-brazil.zip to C:\Users\Pablo\AppData\Roaming\SPB_16.6\
 
 Pablo@PABLO_LAPTOP MINGW64 ~/AppData/Roaming/SPB_16.6/EXAMEN_6_10_23 (main)
 $
+$ kaggle datasets list -s gas
+$ kaggle datasets list -s ga
+$ kaggle datasets list -s g
+$ kaggle datasets list -s
+$ kaggle datasets list -s España
+ref                                                             title
+size  lastUpdated          downloadCount  voteCount  usabilityRating
+--------------------------------------------------------------  -------------------------------------------  -
+----  -------------------  -------------  ---------  ---------------
+ricardomoya/tweets-poltica-espaa                                Tweets Política España
+24MB  2023-03-23 12:58:51            238          7  1.0
+nicholasjhana/energy-consumption-generation-prices-and-weather  Hourly energy demand generation and weather
+ 4MB  2019-10-10 14:02:37          20118        331  1.0
+josepblasco/hidro-data                                          Precipitaciones en España �️
+ 11MB  2023-03-13 20:48:01            129          7  1.0
+fcojavt/municipios-spain                                        Municipios de España                         2
+24KB  2020-05-18 15:35:15            181          7  0.7058824
+pierorubini/vuelta-a-espana                                     Vuelta a España (2001 - 2022)                9
+71KB  2023-01-20 03:39:58             80          5  0.9411765
+datashyends/programas10n                                        Programas Elecciones España 10-N 2019        2
+28KB  2019-11-10 17:11:33             39          1  1.0
+xaxipirulazo/red-electrica-espaola-consumo-y-precios            Red Electrica De España                      3
+08KB  2020-03-26 14:40:32             65          3  0.4117647
+datamarket/movilidad-de-personas                                Movilidad de personas
+32MB  2021-02-05 08:49:55            214          7  1.0
+amerono/ciudades-para-teletrabajar-en-espaa                     Ciudades para teletrabajar en España
+ 6KB  2023-04-09 11:53:53             66          6  0.5294118
+datamarket/productos-de-supermercados                           Productos de supermercados
+19MB  2021-02-17 08:36:55           1106         16  0.9411765
+miguelalfr/empleo-espaa                                         Empleo España
+ 7MB  2023-06-12 22:09:34             67          0  1.0
+mikelmoli/municipal-postal-codes-spain-cdigos-postales          Municipal Postal Codes of Spain              3
+94KB  2022-02-26 11:40:14             59         10  0.7647059
+datamarket/noticias-economicas                                  Noticias Económicas
+16MB  2021-02-09 18:42:15            112          7  0.9411765
+datamarket/viajes-en-tren                                       Viajes en tren
+34MB  2021-02-09 18:57:10            330          7  0.9411765
+datamarket/ofertas-de-mvil-fibra-y-tv                           Ofertas de móvil, fibra y TV
+12KB  2021-02-11 17:46:13             60          5  0.9411765
+datamarket/ofertas-de-trabajo                                   Ofertas de empleo                            1
+89KB  2021-05-19 16:56:11            201          6  0.9411765
+datamarket/catastro                                             Catastro
+ 3MB  2021-09-01 07:24:06             73          6  0.9411765
+jessemostipak/tour-de-france-winners                            Tour de France Winners
+ 2MB  2020-04-07 15:13:22            569         11  1.0
+sszbigdata/pib-y-paro-en-espaa                                  PIB y paro en España
+852B  2018-09-14 12:22:16            178          1  0.75
+jersey33/datos-elecciones-generales-19962016                    Datos elecciones generales 1996-2016 España
+ 9KB  2018-11-16 13:23:48            192          6  0.23529412
+
+Pablo@PABLO_LAPTOP MINGW64 ~/AppData/Roaming/SPB_16.6/EXAMEN_6_10_23 (main)
+$
+$ kaggle datasets download
+$ kaggle datasets download
+$ kaggle datasets download datamarket/catastro
+Downloading catastro.zip to C:\Users\Pablo\AppData\Roaming\SPB_16.6\EXAMEN_6_10_23
+  0%|                                                                            | 0.00/3.41M [00:00<?, ?B/s]
+ 29%|███████████████████▌                                               | 1.00M/3.41M [00:00<00:01, 1.55MB/s]
+ 59%|███████████████████████████████████████▏                           | 2.00M/3.41M [00:00<00:00, 2.27MB/s]
+ 88%|██████████████████████████████████████████████████████████▊        | 3.00M/3.41M [00:01<00:00, 2.28MB/s]
+100%|███████████████████████████████████████████████████████████████████| 3.41M/3.41M [00:01<00:00, 2.29MB/s]
+100%|███████████████████████████████████████████████████████████████████| 3.41M/3.41M [00:01<00:00, 2.19MB/s]
+
+Pablo@PABLO_LAPTOP MINGW64 ~/AppData/Roaming/SPB_16.6/EXAMEN_6_10_23 (main)
+$
