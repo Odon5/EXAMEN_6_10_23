@@ -1,0 +1,591 @@
+
+Pablo@PABLO_LAPTOP MINGW64 ~/AppData/Roaming/SPB_16.6/EXAMEN_6_10_23 (main)
+$
+$ mkdir
+$ mkdir C:\lep22273714
+
+Pablo@PABLO_LAPTOP MINGW64 ~/AppData/Roaming/SPB_16.6/EXAMEN_6_10_23 (main)
+$
+$ cd
+$ cd \
+$ cd
+$ cd \lep22273714
+bash: cd: lep22273714: No such file or directory
+
+Pablo@PABLO_LAPTOP MINGW64 ~/AppData/Roaming/SPB_16.6/EXAMEN_6_10_23 (main)
+$
+$ mkdr
+$ mkd
+$ mkdir
+$ mkdir C:
+$ mkdir C
+$ mkdir
+$ mkdir c:\lep22273714
+mkdir: cannot create directory ‘c:lep22273714’: File exists
+
+Pablo@PABLO_LAPTOP MINGW64 ~/AppData/Roaming/SPB_16.6/EXAMEN_6_10_23 (main)
+$
+$ cd
+$ cd \lep22273713
+$ cd \lep22273714
+bash: cd: lep22273714: No such file or directory
+
+Pablo@PABLO_LAPTOP MINGW64 ~/AppData/Roaming/SPB_16.6/EXAMEN_6_10_23 (main)
+$
+
+Pablo@PABLO_LAPTOP MINGW64 ~/AppData/Roaming/SPB_16.6/EXAMEN_6_10_23 (main)
+$
+$ ls
+C:lep22273714/  EXAMEN_6_10_23.Rproj
+
+Pablo@PABLO_LAPTOP MINGW64 ~/AppData/Roaming/SPB_16.6/EXAMEN_6_10_23 (main)
+$
+$ cd
+$ cd  C\:lep22273714/
+
+Pablo@PABLO_LAPTOP MINGW64 ~/AppData/Roaming/SPB_16.6/EXAMEN_6_10_23/C:lep22273714 (main)
+$
+$ setwd("ª
+$ setwd("
+$ setwd("\lep22273714")
+bash: syntax error near unexpected token `"\lep22273714"'
+
+Pablo@PABLO_LAPTOP MINGW64 ~/AppData/Roaming/SPB_16.6/EXAMEN_6_10_23/C:lep22273714 (main)
+$
+$ ^C
+
+Pablo@PABLO_LAPTOP MINGW64 ~/AppData/Roaming/SPB_16.6/EXAMEN_6_10_23/C:lep22273714 (main)
+$
+$ setwd("C\:lep22273714")
+bash: syntax error near unexpected token `"C\:lep22273714"'
+
+Pablo@PABLO_LAPTOP MINGW64 ~/AppData/Roaming/SPB_16.6/EXAMEN_6_10_23/C:lep22273714 (main)
+$
+$ setwd("C:ª
+$ setwd("C:\lep22273714")
+bash: syntax error near unexpected token `"C:\lep22273714"'
+
+Pablo@PABLO_LAPTOP MINGW64 ~/AppData/Roaming/SPB_16.6/EXAMEN_6_10_23/C:lep22273714 (main)
+$
+$ setwd(c:
+$ setwd(c
+$ setwd(C:lep22273714)
+$ setwd(C:lep22273714")
+$ setwd(C:lep22"273714")
+$ setwd(C:lep22273714")
+$ setwd(C:l"ep22273714")
+$ setwd(C:lep22273714")
+$ setwd"(C:lep22273714")
+$ setwd(C:lep22273714")
+$ setwd("C:lep22273714")
+bash: syntax error near unexpected token `"C:lep22273714"'
+
+Pablo@PABLO_LAPTOP MINGW64 ~/AppData/Roaming/SPB_16.6/EXAMEN_6_10_23/C:lep22273714 (main)
+$
+$ setwd("C:lep22273714/")
+bash: syntax error near unexpected token `"C:lep22273714/"'
+
+Pablo@PABLO_LAPTOP MINGW64 ~/AppData/Roaming/SPB_16.6/EXAMEN_6_10_23/C:lep22273714 (main)
+$
+$ C
+$
+$ setwd("
+$ setwd("C:\C:lep22273714)
+>
+> a
+>
+> getwd()
+>
+>
+>
+>
+> kaggle datasets list -s gas
+>
+> ^C
+
+Pablo@PABLO_LAPTOP MINGW64 ~/AppData/Roaming/SPB_16.6/EXAMEN_6_10_23/C:lep22273714 (main)
+$
+$ ^C
+
+Pablo@PABLO_LAPTOP MINGW64 ~/AppData/Roaming/SPB_16.6/EXAMEN_6_10_23/C:lep22273714 (main)
+$
+$ kaggle datasets list -s gas
+bash: kaggle: command not found
+
+Pablo@PABLO_LAPTOP MINGW64 ~/AppData/Roaming/SPB_16.6/EXAMEN_6_10_23/C:lep22273714 (main)
+$
+$ getwd()
+>
+> ^C
+
+Pablo@PABLO_LAPTOP MINGW64 ~/AppData/Roaming/SPB_16.6/EXAMEN_6_10_23/C:lep22273714 (main)
+$
+
+Pablo@PABLO_LAPTOP MINGW64 ~/AppData/Roaming/SPB_16.6/EXAMEN_6_10_23/C:lep22273714 (main)
+$
+$ pip
+$ pi
+$ p
+$
+$ i
+$
+$ pip
+$ pip install
+$ pip install j
+$ pip install
+$ pip install kaggle
+Collecting kaggle
+  Downloading kaggle-1.5.16.tar.gz (83 kB)
+     ---------------------------------------- 83.6/83.6 kB 4.9 MB/s eta 0:00:00
+  Preparing metadata (setup.py) ... -
+  Preparing metadata (setup.py) ... \
+  Preparing metadata (setup.py) ... done
+Requirement already satisfied: six>=1.10 in c:\users\pablo\appdata\local\programs\python\python311\lib\site-pa
+ckages (from kaggle) (1.16.0)
+Requirement already satisfied: certifi in c:\users\pablo\appdata\local\programs\python\python311\lib\site-pack
+ages (from kaggle) (2023.5.7)
+Requirement already satisfied: python-dateutil in c:\users\pablo\appdata\local\programs\python\python311\lib\s
+ite-packages (from kaggle) (2.8.2)
+Requirement already satisfied: requests in c:\users\pablo\appdata\local\programs\python\python311\lib\site-pac
+kages (from kaggle) (2.31.0)
+Collecting tqdm
+  Downloading tqdm-4.66.1-py3-none-any.whl (78 kB)
+     ---------------------------------------- 0.0/78.3 kB ? eta -:--:--
+     ---------------------------------------- 78.3/78.3 kB 2.1 MB/s eta 0:00:00
+Collecting python-slugify
+  Downloading python_slugify-8.0.1-py2.py3-none-any.whl (9.7 kB)
+Requirement already satisfied: urllib3 in c:\users\pablo\appdata\local\programs\python\python311\lib\site-pack
+ages (from kaggle) (2.0.2)
+Collecting bleach
+  Downloading bleach-6.0.0-py3-none-any.whl (162 kB)
+     ---------------------------------------- 0.0/162.5 kB ? eta -:--:--
+     ---------------------------------------- 162.5/162.5 kB ? eta 0:00:00
+Collecting webencodings
+  Downloading webencodings-0.5.1-py2.py3-none-any.whl (11 kB)
+Collecting text-unidecode>=1.3
+  Downloading text_unidecode-1.3-py2.py3-none-any.whl (78 kB)
+     ---------------------------------------- 78.2/78.2 kB ? eta 0:00:00
+Requirement already satisfied: charset-normalizer<4,>=2 in c:\users\pablo\appdata\local\programs\python\python
+311\lib\site-packages (from requests->kaggle) (3.1.0)
+Requirement already satisfied: idna<4,>=2.5 in c:\users\pablo\appdata\local\programs\python\python311\lib\site
+-packages (from requests->kaggle) (3.4)
+Requirement already satisfied: colorama in c:\users\pablo\appdata\local\programs\python\python311\lib\site-pac
+kages (from tqdm->kaggle) (0.4.6)
+Installing collected packages: webencodings, text-unidecode, tqdm, python-slugify, bleach, kaggle
+  DEPRECATION: kaggle is being installed using the legacy 'setup.py install' method, because it does not have
+a 'pyproject.toml' and the 'wheel' package is not installed. pip 23.1 will enforce this behaviour change. A po
+ssible replacement is to enable the '--use-pep517' option. Discussion can be found at https://github.com/pypa/
+pip/issues/8559
+  Running setup.py install for kaggle ... -
+  Running setup.py install for kaggle ... \
+  Running setup.py install for kaggle ... |
+  Running setup.py install for kaggle ... /
+  Running setup.py install for kaggle ... -
+  Running setup.py install for kaggle ... \
+  Running setup.py install for kaggle ... |
+  Running setup.py install for kaggle ... /
+  Running setup.py install for kaggle ... -
+  Running setup.py install for kaggle ... \
+  Running setup.py install for kaggle ... |
+  Running setup.py install for kaggle ... /
+  Running setup.py install for kaggle ... -
+  Running setup.py install for kaggle ... \
+  Running setup.py install for kaggle ... |
+  Running setup.py install for kaggle ... /
+  Running setup.py install for kaggle ... -
+  Running setup.py install for kaggle ... \
+  Running setup.py install for kaggle ... |
+  Running setup.py install for kaggle ... done
+Successfully installed bleach-6.0.0 kaggle-1.5.16 python-slugify-8.0.1 text-unidecode-1.3 tqdm-4.66.1 webencod
+ings-0.5.1
+
+[notice] A new release of pip available: 22.3.1 -> 23.2.1
+[notice] To update, run: python.exe -m pip install --upgrade pip
+
+Pablo@PABLO_LAPTOP MINGW64 ~/AppData/Roaming/SPB_16.6/EXAMEN_6_10_23/C:lep22273714 (main)
+$
+$ kaggle datasets list -s gas
+Traceback (most recent call last):
+  File "C:\Users\Pablo\AppData\Local\Programs\Python\Python311\Scripts\kaggle-script.py", line 33, in <module>
+    sys.exit(load_entry_point('kaggle==1.5.16', 'console_scripts', 'kaggle')())
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pablo\AppData\Local\Programs\Python\Python311\Scripts\kaggle-script.py", line 25, in importli
+b_load_entry_point
+    return next(matches).load()
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pablo\AppData\Local\Programs\Python\Python311\Lib\importlib\metadata\__init__.py", line 202,
+in load
+    module = import_module(match.group('module'))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pablo\AppData\Local\Programs\Python\Python311\Lib\importlib\__init__.py", line 126, in import
+_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1206, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1128, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1206, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1149, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 690, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "C:\Users\Pablo\AppData\Local\Programs\Python\Python311\Lib\site-packages\kaggle\__init__.py", line 23,
+ in <module>
+    api.authenticate()
+  File "C:\Users\Pablo\AppData\Local\Programs\Python\Python311\Lib\site-packages\kaggle\api\kaggle_api_extende
+d.py", line 403, in authenticate
+    raise IOError('Could not find {}. Make sure it\'s located in'
+OSError: Could not find kaggle.json. Make sure it's located in C:\Users\Pablo\.kaggle. Or use the environment
+method.
+
+Pablo@PABLO_LAPTOP MINGW64 ~/AppData/Roaming/SPB_16.6/EXAMEN_6_10_23/C:lep22273714 (main)
+$
+$ ^C
+
+Pablo@PABLO_LAPTOP MINGW64 ~/AppData/Roaming/SPB_16.6/EXAMEN_6_10_23/C:lep22273714 (main)
+
+Pablo@PABLO_LAPTOP MINGW64 ~/AppData/Roaming/SPB_16.6/EXAMEN_6_10_23 (main)
+$
+$ kaggle datasets list
+Traceback (most recent call last):
+  File "C:\Users\Pablo\AppData\Local\Programs\Python\Python311\Scripts\kaggle-script.py", line 33, in <module>
+    sys.exit(load_entry_point('kaggle==1.5.16', 'console_scripts', 'kaggle')())
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pablo\AppData\Local\Programs\Python\Python311\Scripts\kaggle-script.py", line 25, in importli
+b_load_entry_point
+    return next(matches).load()
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pablo\AppData\Local\Programs\Python\Python311\Lib\importlib\metadata\__init__.py", line 202,
+in load
+    module = import_module(match.group('module'))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pablo\AppData\Local\Programs\Python\Python311\Lib\importlib\__init__.py", line 126, in import
+_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1206, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1128, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1206, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1149, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 690, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "C:\Users\Pablo\AppData\Local\Programs\Python\Python311\Lib\site-packages\kaggle\__init__.py", line 23,
+ in <module>
+    api.authenticate()
+  File "C:\Users\Pablo\AppData\Local\Programs\Python\Python311\Lib\site-packages\kaggle\api\kaggle_api_extende
+d.py", line 403, in authenticate
+    raise IOError('Could not find {}. Make sure it\'s located in'
+OSError: Could not find kaggle.json. Make sure it's located in C:\Users\Pablo\.kaggle. Or use the environment
+method.
+
+Pablo@PABLO_LAPTOP MINGW64 ~/AppData/Roaming/SPB_16.6/EXAMEN_6_10_23 (main)
+$
+$ pip install --upgrade kaggle
+Requirement already satisfied: kaggle in c:\users\pablo\appdata\local\programs\python\python311\lib\site-packa
+ges (1.5.16)
+Requirement already satisfied: six>=1.10 in c:\users\pablo\appdata\local\programs\python\python311\lib\site-pa
+ckages (from kaggle) (1.16.0)
+Requirement already satisfied: certifi in c:\users\pablo\appdata\local\programs\python\python311\lib\site-pack
+ages (from kaggle) (2023.5.7)
+Requirement already satisfied: python-dateutil in c:\users\pablo\appdata\local\programs\python\python311\lib\s
+ite-packages (from kaggle) (2.8.2)
+Requirement already satisfied: requests in c:\users\pablo\appdata\local\programs\python\python311\lib\site-pac
+kages (from kaggle) (2.31.0)
+Requirement already satisfied: tqdm in c:\users\pablo\appdata\local\programs\python\python311\lib\site-package
+s (from kaggle) (4.66.1)
+Requirement already satisfied: python-slugify in c:\users\pablo\appdata\local\programs\python\python311\lib\si
+te-packages (from kaggle) (8.0.1)
+Requirement already satisfied: urllib3 in c:\users\pablo\appdata\local\programs\python\python311\lib\site-pack
+ages (from kaggle) (2.0.2)
+Requirement already satisfied: bleach in c:\users\pablo\appdata\local\programs\python\python311\lib\site-packa
+ges (from kaggle) (6.0.0)
+Requirement already satisfied: webencodings in c:\users\pablo\appdata\local\programs\python\python311\lib\site
+-packages (from bleach->kaggle) (0.5.1)
+Requirement already satisfied: text-unidecode>=1.3 in c:\users\pablo\appdata\local\programs\python\python311\l
+ib\site-packages (from python-slugify->kaggle) (1.3)
+Requirement already satisfied: charset-normalizer<4,>=2 in c:\users\pablo\appdata\local\programs\python\python
+311\lib\site-packages (from requests->kaggle) (3.1.0)
+Requirement already satisfied: idna<4,>=2.5 in c:\users\pablo\appdata\local\programs\python\python311\lib\site
+-packages (from requests->kaggle) (3.4)
+Requirement already satisfied: colorama in c:\users\pablo\appdata\local\programs\python\python311\lib\site-pac
+kages (from tqdm->kaggle) (0.4.6)
+
+[notice] A new release of pip available: 22.3.1 -> 23.2.1
+[notice] To update, run: python.exe -m pip install --upgrade pip
+
+Pablo@PABLO_LAPTOP MINGW64 ~/AppData/Roaming/SPB_16.6/EXAMEN_6_10_23 (main)
+$
+
+Pablo@PABLO_LAPTOP MINGW64 ~/AppData/Roaming/SPB_16.6/EXAMEN_6_10_23 (main)
+$
+$ kaggle datasets list
+Traceback (most recent call last):
+  File "C:\Users\Pablo\AppData\Local\Programs\Python\Python311\Scripts\kaggle-script.py", line 33, in <module>
+    sys.exit(load_entry_point('kaggle==1.5.16', 'console_scripts', 'kaggle')())
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pablo\AppData\Local\Programs\Python\Python311\Scripts\kaggle-script.py", line 25, in importli
+b_load_entry_point
+    return next(matches).load()
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pablo\AppData\Local\Programs\Python\Python311\Lib\importlib\metadata\__init__.py", line 202,
+in load
+    module = import_module(match.group('module'))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pablo\AppData\Local\Programs\Python\Python311\Lib\importlib\__init__.py", line 126, in import
+_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1206, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1128, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1206, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1149, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 690, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "C:\Users\Pablo\AppData\Local\Programs\Python\Python311\Lib\site-packages\kaggle\__init__.py", line 23,
+ in <module>
+    api.authenticate()
+  File "C:\Users\Pablo\AppData\Local\Programs\Python\Python311\Lib\site-packages\kaggle\api\kaggle_api_extende
+d.py", line 403, in authenticate
+    raise IOError('Could not find {}. Make sure it\'s located in'
+OSError: Could not find kaggle.json. Make sure it's located in C:\Users\Pablo\.kaggle. Or use the environment
+method.
+
+Pablo@PABLO_LAPTOP MINGW64 ~/AppData/Roaming/SPB_16.6/EXAMEN_6_10_23 (main)
+$
+$ kaggle datasets list
+$ kaggle datasets lis
+$ kaggle datasets li
+$ kaggle datasets l
+$ kaggle datasets
+$ kaggle dataset
+$ kaggle datase
+$ kaggle datas
+$ kaggle data
+$ kaggle dat
+$ kaggle da
+$ kaggle d
+$ kaggle
+$ kaggl
+$ kagg
+$ kag
+$ k
+$
+$ kaggle datasets list -s gas
+ref                                                        title
+   size  lastUpdated          downloadCount  voteCount  usabilityRating
+---------------------------------------------------------  --------------------------------------------------
+ ------  -------------------  -------------  ---------  ---------------
+matheusfreitag/gas-prices-in-brazil                        Gas Prices in Brazil
+    3MB  2022-03-11 18:03:57          16991        399  1.0
+zusmani/petrolgas-prices-worldwide                         Petrol/Gas Prices Worldwide
+   10KB  2022-06-24 01:25:33           5695        165  1.0
+unitednations/international-greenhouse-gas-emissions       International Greenhouse Gas Emissions
+  107KB  2017-11-16 17:38:34           7202        118  0.7058824
+mruanova/us-gasoline-and-diesel-retail-prices-19952021     U.S. Gasoline and Diesel Retail Prices 1995-2021
+   38KB  2021-02-01 07:17:50           5589        147  1.0
+uciml/gas-sensor-array-under-dynamic-gas-mixtures          Gas sensor array under dynamic gas mixtures
+  720MB  2017-11-01 22:22:11           1651         70  0.75
+tunguz/natural-gas-prices                                  Natural Gas Prices
+   36KB  2021-03-30 13:46:57            937         24  1.0
+lucabasa/dutch-energy                                      Energy consumption of the Netherlands
+  139MB  2020-06-21 18:51:28         109234        333  0.9411765
+mpwolke/cusersmarildownloadsdioxidecsv                     Gas emissions (CO2-e) by transport sector.
+   945B  2020-01-17 14:47:41           1736        117  1.0
+ashishraut64/global-methane-emissions                      Global Emissions.
+   31KB  2023-03-27 09:02:51           4889         84  1.0
+michaelbryantds/greenhouse-gas-emissions-dataset           Greenhouse Gas Emissions Dataset
+    2GB  2022-11-16 17:18:11            894         39  0.8235294
+psycon/historical-natural-gas-data-from-2000-to-202204     Daily Natural Gas Historical  Data 12.2022
+   85KB  2022-12-31 08:08:22            469         70  1.0
+tunguz/estimated-gasoline-sales                            Estimated New York  Gasoline Sales
+    8KB  2021-04-24 11:11:44            417         28  1.0
+mrmorj/fraud-detection-in-electricity-and-gas-consumption  Fraud Detection in Electricity and Gas Consumption
+   87MB  2020-08-24 12:29:16           2016         48  0.7941176
+garystafford/environmental-sensor-data-132k                Environmental Sensor Telemetry Data
+    7MB  2020-07-20 17:18:10           5383         93  1.0
+raspberrypie/oil-and-gas                                   Oil and Gas
+ 1012KB  2017-12-13 21:04:41           4226         91  0.64705884
+janheindejong/greenhouse-gas-emissions-in-the-netherlands  Greenhouse gas emissions in the Netherlands
+   26KB  2019-01-23 08:37:36           1358         29  0.85294116
+prasertk/historical-daily-oil-and-natural-gas-prices       historical daily oil and natural gas prices
+  350KB  2022-06-18 04:53:48            875         41  1.0
+sjagkoo7/fuel-gas-emission                                 Fuel Gas Emission
+  227KB  2023-07-21 18:11:52             62          9  0.9411765
+stefancomanita/gasoline-and-diesel-prices-in-romania       Gasoline and Diesel Prices in Romania
+    6KB  2023-03-13 22:19:33            394         25  1.0
+guillemservera/fuels-futures-data                          Oil, Gas & Other Fuels Futures Data
+    1MB  2023-10-06 04:03:50            939         30  1.0
+
+Pablo@PABLO_LAPTOP MINGW64 ~/AppData/Roaming/SPB_16.6/EXAMEN_6_10_23 (main)
+$
+$ kaggle datasets download nombre-de-usuario/nombre-del-dataset -f nombre-del-archivo
+403 - Forbidden - Permission 'datasets.get' was denied
+
+Pablo@PABLO_LAPTOP MINGW64 ~/AppData/Roaming/SPB_16.6/EXAMEN_6_10_23 (main)
+$
+$ kaggle
+$ kaggle datasets
+$ kaggle datasets download
+$ kaggle datasets download
+$ kaggle datasets download pablobailador/pablobailador
+$ kaggle datasets download pablobailador/pablobailado
+$ kaggle datasets download pablobailador/pablobailad
+$ kaggle datasets download pablobailador/pablobaila
+$ kaggle datasets download pablobailador/pablobail
+$ kaggle datasets download pablobailador/pablobai
+$ kaggle datasets download pablobailador/pabloba
+$ kaggle datasets download pablobailador/pablob
+$ kaggle datasets download pablobailador/pablo
+$ kaggle datasets download pablobailador/pabl
+$ kaggle datasets download pablobailador/pab
+$ kaggle datasets download pablobailador/pa
+$ kaggle datasets download pablobailador/p
+$ kaggle datasets download pablobailador/matheusfreitag/gas-prices-in-brazil
+$ kaggle datasets download pablobailador/matheusfreitag/gas-prices-in-brazi
+$ kaggle datasets download pablobailador/matheusfreitag/gas-prices-in-brazil
+$ kaggle datasets download pablobailador/matheusfreitag/ga-prices-in-brazil
+$ kaggle datasets download pablobailador/matheusfreitag/gas-prices-in-brazil
+$ kaggle datasets download pablobailador/mathusfreitag/gas-prices-in-brazil
+$ kaggle datasets download pablobailador/matusfreitag/gas-prices-in-brazil
+$ kaggle datasets download pablobailador/mausfreitag/gas-prices-in-brazil
+$ kaggle datasets download pablobailador/musfreitag/gas-prices-in-brazil
+$ kaggle datasets download pablobailador/usfreitag/gas-prices-in-brazil
+$ kaggle datasets download pablobailadorusfreitag/gas-prices-in-brazil
+$ kaggle datasets download pablobailadousfreitag/gas-prices-in-brazil
+$ kaggle datasets download pablobailadusfreitag/gas-prices-in-brazil
+$ kaggle datasets download pablobailausfreitag/gas-prices-in-brazil
+$ kaggle datasets download pablobailusfreitag/gas-prices-in-brazil
+$ kaggle datasets download pablobausfreitag/gas-prices-in-brazil
+$ kaggle datasets download pablobusfreitag/gas-prices-in-brazil
+$ kaggle datasets download pablousfreitag/gas-prices-in-brazil
+$ kaggle datasets download pabusfreitag/gas-prices-in-brazil
+$ kaggle datasets download pausfreitag/gas-prices-in-brazil
+$ kaggle datasets download pusfreitag/gas-prices-in-brazil
+$ kaggle datasets download usfreitag/gas-prices-in-brazil
+$ kaggle datasets downloadusfreitag/gas-prices-in-brazil
+$ kaggle datasets downloausfreitag/gas-prices-in-brazil
+$ kaggle datasets downlousfreitag/gas-prices-in-brazil
+$ kaggle datasets downlusfreitag/gas-prices-in-brazil
+$ kaggle datasets downusfreitag/gas-prices-in-brazil
+$ kaggle datasets dowusfreitag/gas-prices-in-brazil
+$ kaggle datasets dousfreitag/gas-prices-in-brazil
+$ kaggle datasets dusfreitag/gas-prices-in-brazil
+$ kaggle datasets usfreitag/gas-prices-in-brazil
+$ kaggle datasetsusfreitag/gas-prices-in-brazil
+$ kaggle datasetusfreitag/gas-prices-in-brazil
+$ kaggle dataseusfreitag/gas-prices-in-brazil
+$ kaggle datasusfreitag/gas-prices-in-brazil
+$ kaggle datausfreitag/gas-prices-in-brazil
+$ kaggle datusfreitag/gas-prices-in-brazil
+$ kaggle dausfreitag/gas-prices-in-brazil
+$ kaggle dusfreitag/gas-prices-in-brazil
+$ kaggle usfreitag/gas-prices-in-brazil
+$ kaggleusfreitag/gas-prices-in-brazil
+$ kagglusfreitag/gas-prices-in-brazil
+$ kaggusfreitag/gas-prices-in-brazil
+$ kagusfreitag/gas-prices-in-brazil
+$ kausfreitag/gas-prices-in-brazil
+$ kusfreitag/gas-prices-in-brazil
+$ usfreitag/gas-prices-in-brazil
+$ usfeitag/gas-prices-in-brazil
+$ useitag/gas-prices-in-brazil
+$ ueitag/gas-prices-in-brazil
+$ eitag/gas-prices-in-brazil
+$ itag/gas-prices-in-brazil
+$ tag/gas-prices-in-brazil
+$ ag/gas-prices-in-brazil
+$ g/gas-prices-in-brazil
+$ /gas-prices-in-brazil
+$ gas-prices-in-brazil
+$ as-prices-in-brazil
+$ s-prices-in-brazil
+$ -prices-in-brazil
+$ prices-in-brazil
+$ rices-in-brazil
+$ ices-in-brazil
+$ ces-in-brazil
+$ es-in-brazil
+$ s-in-brazil
+$ -in-brazil
+$ in-brazil
+$ n-brazil
+$ -brazil
+$ brazil
+$ razil
+$ azil
+$ zil
+$ il
+$ l
+$
+$ ^C
+
+Pablo@PABLO_LAPTOP MINGW64 ~/AppData/Roaming/SPB_16.6/EXAMEN_6_10_23 (main)
+$
+$ as
+$ a
+$
+$ kaggle
+$ kaggle datasets
+$ kaggle datasets download
+$ kaggle datasets download matheusfreitag/gas-pries
+$ kaggle datasets download matheusfreitag/gas-prie
+$ kaggle datasets download matheusfreitag/gas-prices-in-be
+$ kaggle datasets download matheusfreitag/gas-prices-in-b
+$ kaggle datasets download matheusfreitag/gas-prices-in-brazil
+$ kaggle datasets download matheusfreitag/gas-prices-in-brazil -f
+usage: kaggle datasets download [-h] [-f FILE_NAME] [-p PATH] [-w] [--unzip] [-o] [-q] [dataset]
+kaggle datasets download: error: argument -f/--file: expected one argument
+
+Pablo@PABLO_LAPTOP MINGW64 ~/AppData/Roaming/SPB_16.6/EXAMEN_6_10_23 (main)
+$
+$ matheusfreitag/gas-prices-in-brazil
+$ matheusfreitag/gas-prices-in-brazi
+$ matheusfreitag/gas-prices-in-braz
+$ matheusfreitag/gas-prices-in-bra
+$ matheusfreitag/gas-prices-in-br
+$ matheusfreitag/gas-prices-in-
+$ matheusfreitag/gas-prices-in
+$ matheusfreitag/gas-prices-i
+$ matheusfreitag/gas-prices-
+$ matheusfreitag/gas-prices
+$ matheusfreitag/gas-price
+$ matheusfreitag/gas-pric
+$ matheusfreitag/gas-pri
+$ matheusfreitag/gas-pr
+$ matheusfreitag/gas-p
+$ matheusfreitag/gas-
+$ matheusfreitag/gas
+$ matheusfreitag/ga
+$ matheusfreitag/
+$ matheusfreitag
+$ matheusfreita
+$ matheusfrei
+$ matheusfre
+$ matheusf
+$ matheus
+$ matheu
+$ mathe
+$ mat
+$ ma
+$ m
+$
+$ kaggle datasets download matheusfreitag/gas-prices-in-brazil
+Downloading gas-prices-in-brazil.zip to C:\Users\Pablo\AppData\Roaming\SPB_16.6\EXAMEN_6_10_23
+  0%|                                                                            | 0.00/3.08M [00:00<?, ?B/s]
+ 32%|█████████████████████▋                                             | 1.00M/3.08M [00:00<00:01, 1.56MB/s]
+ 65%|███████████████████████████████████████████▍                       | 2.00M/3.08M [00:00<00:00, 2.56MB/s]
+ 97%|█████████████████████████████████████████████████████████████████▏ | 3.00M/3.08M [00:01<00:00, 3.47MB/s]
+100%|███████████████████████████████████████████████████████████████████| 3.08M/3.08M [00:01<00:00, 2.98MB/s]
+
+Pablo@PABLO_LAPTOP MINGW64 ~/AppData/Roaming/SPB_16.6/EXAMEN_6_10_23 (main)
+$
